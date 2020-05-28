@@ -14,3 +14,5 @@
     ```sh
     npm run start > tr.json
     ```
+6. Cleanup the other output at the top of your file.
+7. Optionally you can run prettier here.
