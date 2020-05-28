@@ -1,0 +1,49 @@
+{
+  "currencyName": {
+    "trl": "Türk Lirası",
+    "usd": "Amerikan Doları",
+    "eur": "Euro",
+    "gbp": "İngiliz Sterlini"
+  },
+  "dateUtil": { "thisMonth": "BU AY" },
+  "pDatePickerWithPresets": { "sameDay": "AYNI GÜN", "days": "{{days}} GÜN" },
+  "pDateRangePicker": {
+    "rangeStart": "BAŞLANGIÇ TARİHİ",
+    "rangeEnd": "BİTİŞ TARİHİ",
+    "quickChoose": "HIZLI SEÇİM",
+    "thisMonth": "BU AY",
+    "previousMonth": "GEÇEN AY",
+    "thisQuarter": "BU ÇEYREK",
+    "previousQuarter": "GEÇEN ÇEYREK",
+    "thisYear": "BU YIL",
+    "previousYear": "GEÇEN YIL",
+    "apply": "UYGULA",
+    "cancel": "VAZGEÇ"
+  },
+  "pFilterCollectionWithCheckboxes": { "apply": "UYGULA", "cancel": "VAZGEÇ" },
+  "pFilterCollectionWithDate": { "customDate": "TARİH ARALIĞI..." },
+  "pFilterContainer": { "doFilter": "FİLTRELE", "removeAll": "TÜMÜNÜ KALDIR" },
+  "pListBody": {
+    "noResults": "ARADIĞINIZ KRİTERLERE <br>UYGUN KAYIT BULUNMUYOR",
+    "removeFilters": "KRİTERLERİ KALDIR"
+  },
+  "pListAggregates": { "recordCount": "{{count}} Kayıt" },
+  "pListToggle": {
+    "allRecords": "TÜM KAYITLAR",
+    "archivedRecords": "ARŞİVLENMİŞ KAYITLAR",
+    "recurranceTemplates": "TEKRARLAMA ŞABLONLARI",
+    "cancelledRecords": "İPTAL EDİLMİŞ KAYITLAR"
+  },
+  "pMonthPicker": {
+    "loadPrevious": "DAHA ÖNCE...",
+    "loadNext": "DAHA SONRA..."
+  },
+  "pPaginationInfo": {
+    "text": "{{totalCount}} kayıttan {{rangeStart}}-{{rangeEnd}} arası gösteriliyor."
+  },
+  "pOneWayAutoComplete": { "new": "YENİ", "existing": "KAYITLI" },
+  "pSearchBox": {
+    "activePlaceholder": "İçerisinde ara...",
+    "blankPlaceholder": "Ara..."
+  }
+}
